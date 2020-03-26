@@ -3,13 +3,13 @@
 
 # greet()
 
-def greet(age,name):
-    print(f'Subject1, age {age} name {name}')
+# def greet(age,name):
+#     print(f'Subject1, age {age} name {name}')
 
-age = input('Type in your age  ')
-name = input('Type in your name  ')
+# age = input('Type in your age  ')
+# name = input('Type in your name  ')
 
-greet(age, name)
+# greet(age, name)
 
 # def new(area):
 #     print('Thea area of your circle is', str(area))
